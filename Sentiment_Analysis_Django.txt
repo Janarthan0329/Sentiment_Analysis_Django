@@ -1,0 +1,14 @@
+pip install numpy matplotlib seaborn scikit-learn wordcloud nltk xgboost streamlit flask 
+
+
+
+----------------------------------Inside the env-------------------------------
+pip install numpy
+pip install Django
+pip install scikit-learn
+
+
+
+-------------------------------Testing Sentences---------------------------------
+Does not work all the time
+I did a good investment by buying echo
